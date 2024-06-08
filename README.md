@@ -7,10 +7,10 @@ Skills: Kotlin, KMP, Android, Compose Multiplatform, Software Architecture
 
 ### Public projects
  - [VisualFSM](https://github.com/Kontur-Mobile/VisualFSM) 
- - [VisualFSM Sample KMM](https://github.com/Kontur-Mobile/VisualFSM-Sample-KMM)
+ - [VisualFSM Sample KMP](https://github.com/Kontur-Mobile/VisualFSM-Sample-KMM)
 
 ### Articles
- - [(2022, RUS) MVI and State Machine - combining concepts. Visualization and analysis of state diagrams in Android and KMM projects](https://habr.com/ru/companies/skbkontur/articles/691446/)
+ - [(2022, RUS) MVI and State Machine - combining concepts. Visualization and analysis of state diagrams in Android and KMP projects](https://habr.com/ru/companies/skbkontur/articles/691446/)
  - [(2012, RUS) Rhodecode + Redmine - an inexpensive and functional replacement for software projects management](https://habr.com/ru/articles/140917/)
 
 ### Speeches
