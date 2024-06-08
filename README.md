@@ -11,7 +11,7 @@ Skills: Kotlin, KMP, Android, Compose Multiplatform, Software Architecture
 
 ### Articles
  - [(2022, RUS) MVI and State Machine - combining concepts. Visualization and analysis of state diagrams in Android and KMP projects](https://habr.com/ru/companies/skbkontur/articles/691446/)
- - [(2012, RUS) Rhodecode + Redmine - an inexpensive and functional replacement for third-party software project management tools](https://habr.com/ru/articles/140917/)
+ - [(2012, RUS) Rhodecode + Redmine - an inexpensive and functional replacement for hosted software project management tools](https://habr.com/ru/articles/140917/)
 
 ### Speeches
  - [(2022, RUS) MVI and State Machine - VisualFSM in practice](https://www.youtube.com/watch?v=gfXyieqw7Pw)
