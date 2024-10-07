@@ -6,6 +6,7 @@ Skills: Kotlin, KMP, Android, Compose Multiplatform, Software Architecture
 [GitHub](https://github.com/VasilyRylov), [Linkedin](https://www.linkedin.com/in/vasilyrylov), [Telegram](https://t.me/vasilyrylov)
 
 ### Public projects
+ - [KMP multi-module architecture samples](https://github.com/VasilyRylov/architecture-samples)
  - [VisualFSM](https://github.com/Kontur-Mobile/VisualFSM) 
  - [VisualFSM Sample KMP](https://github.com/Kontur-Mobile/VisualFSM-Sample-KMM)
 
